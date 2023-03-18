@@ -1,0 +1,13 @@
+.wrapper_post{
+    margin-bottom: 25px;
+    padding: 50px;
+    border: 1px solid;
+    transition: 0.5s;
+    h1{
+        margin-bottom: 10px;
+    }
+}
+
+.wrapper_post:hover{
+    transform: scale(1.2);
+}
