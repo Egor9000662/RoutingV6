@@ -1,5 +1,5 @@
-Пример работы routing V6
-Реализация динамических страниц
-API jsonPlaceholder
+1.Пример работы routing V6 
+2.Реализация динамических страниц
+3.API jsonPlaceholder
 
 
