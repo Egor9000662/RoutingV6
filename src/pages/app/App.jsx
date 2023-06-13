@@ -27,6 +27,7 @@ function App() {
             <Route path="/contacts" element={<PageContacts />} />
             <Route path="*" element={<PageError/>} />
           </Routes>
+          <h1>Hello world</h1>
         </main>
 
         <footer>
